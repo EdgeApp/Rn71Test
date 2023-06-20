@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.11"
+    "react-native": "0.71.11",
+    "react-native-piratechain": "https://github.com/EdgeApp/react-native-piratechain#upgradeKotlin",
+    "react-native-zcash": "https://github.com/EdgeApp/react-native-zcash#upgradeKotlin"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
